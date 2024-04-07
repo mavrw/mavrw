@@ -4,35 +4,85 @@ I'm a Jr Software Engineer passionate about creating clean, efficient, and maint
 
 ## 🔧 Technologies & Tools
 
+<table>
+<tr>
+<th>
+  
 ### Languages
-- Python
-- Javascript
-- Java
-- C#
-
+  
+</th>
+<th>
+  
 ### Frontend
-- HTML
-- CSS
-- Vue3
-
+  
+</th>
+<th>
+  
 ### Backend
-- FastApi
-- Flask
-
+  
+</th>
+<th>
+  
 ### Databases
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
-
+  
+</th>
+<th>
+  
 ### DevOps
-- Docker/Docker Compose
-- Jenkins
-- Grafana
-- AWS
-
+  
+</th>
+<th>
+  
 ### Other
-- Git
-- RESTful APIs
-- Agile methodologies
+  
+</th>
+</tr>
+<tr>
+<td>
+
+Python<br />
+Javascript<br />
+Java<br />
+C#
+
+</td>
+<td>
+
+HTML<br />
+CSS<br />
+Vue3<br />
+
+</td>
+<td>
+
+FastAPI<br />
+Flask<br />
+
+</td>
+<td>
+
+SQL (MySQL, PostgreSQL)<br />
+NoSQL (MongoDB)<br />
+
+</td>
+<td>
+
+Docker/Docker Compose<br />
+Jenkins<br />
+Grafana<br />
+AWS<br />
+
+</td>
+<td>
+
+Git<br />
+RESTful APIs<br />
+Agile methodologies<br />
+
+</td>
+</tr>
+</table>
+
 
 ## 📫 How to Reach Me
 
