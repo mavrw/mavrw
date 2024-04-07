@@ -50,13 +50,13 @@
 <tr>
 <td>
 
-Python &nbsp;&nbsp;&nbsp;&nbsp;JavaScript<br />
-Java &nbsp;&nbsp;&nbsp;&nbsp;C#<br />
+Python  JavaScript<br />
+Java    C#<br />
 
 </td>
 <td>
 
-HTML &nbsp;&nbsp;&nbsp;&nbsp;Vue3<br />
+HTML    Vue3<br />
 CSS<br />
 
 </td>
