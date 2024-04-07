@@ -1,6 +1,6 @@
 <h3 align="center">Hey there, I'm Matt! 👋</h3>
 <p align="center">
-    You may also know me as Maverick. I'm a Jr Software Engineer 
+    You may also know me as Maverick. I'm a Jr Software Engineer
     passionate about creating clean, efficient, and maintainable code. <br />
     I enjoy tackling challenging problems and learning new technologies.
     I spend a majority of my time crafting software for the web, and I
@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">🔧 Technologies & Tools</h3>
-<p>
+
 <table>
     <tr>
         <th>
@@ -89,7 +89,7 @@
         </td>
     </tr>
 </table>
-</p>
+
 
 <h3 align="center">📫 How to Reach Me</h3>
 <p align="center">
