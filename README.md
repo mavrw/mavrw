@@ -1,13 +1,15 @@
 <h3 align="center">Hey there, I'm Matt! 👋</h3>
-<p align="center">
-    You may also know me as Maverick. I'm a Jr Software Engineer
+<div align="center">
+<p>
+    You may also know me as Maverick. I'm a Jr Software Engineer who is <br />
     passionate about creating clean, efficient, and maintainable code. <br />
-    I enjoy tackling challenging problems and learning new technologies.
-    I spend a majority of my time crafting software for the web, and I
-    particularly find writing backend solutions to be the most fun and
-    rewarding however, working on frontend projects also have their own
+    I enjoy tackling challenging problems and learning new technologies.<br />
+    I spend a majority of my time crafting software for the web, and I <br />
+    particularly find writing backend solutions to be the most fun and <br />
+    rewarding however, working on frontend projects also have their own <br />
     unique and rewarding obstacles.
 </p>
+</div>
 <p align="center">
 <a href="https://wakatime.com/@98f82f74-56ef-41ed-aad7-312ed2697484"><img src="https://wakatime.com/badge/user/98f82f74-56ef-41ed-aad7-312ed2697484.svg" alt="Total time coded since Oct 6 2022" /></a>
 </p>
