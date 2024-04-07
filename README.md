@@ -11,6 +11,7 @@
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 
+
 <table align="center">
 <tr>
 <th>
@@ -48,9 +49,9 @@
 <td>
 
 Python<br />
-Javascript<br />
+JavaScript<br />
 Java<br />
-C#
+C#<br />
 
 </td>
 <td>
