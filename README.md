@@ -45,12 +45,12 @@
 </th>
 </tr>
 <tr>
-<td colspan="2">
+<td>
 
 Python<br />
 Javascript<br />
 Java<br />
-C#<br />
+C#
 
 </td>
 <td>
