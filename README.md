@@ -1,15 +1,12 @@
 <h3 align="center">Hey there, I'm Matt! 👋</h3>
-<div align="center">
-<p>
+<p align="center">
     You may also know me as Maverick.<br />
-    <div align="left">I'm a Jr Software Engineer who is passionate about creating clean, efficient, and maintainable code.</div>
+    I'm a Jr Software Engineer who is passionate about creating clean, efficient, and maintainable code.<br />
     I enjoy tackling challenging problems and learning new technologies.<br />
-    I spend a majority of my time crafting software for the web, and I <br />
-    particularly find writing backend solutions to be the most fun and <br />
-    rewarding however, working on frontend projects also have their own <br />
-    unique and rewarding obstacles.
 </p>
-</div>
+<p align="center">
+    I spend a majority of my time crafting software for the web, and I particularly find writing backend solutions to be the most fun and rewarding however, working on frontend projects also have their own unique and rewarding obstacles.<br />
+</p>
 <p align="center">
 <a href="https://wakatime.com/@98f82f74-56ef-41ed-aad7-312ed2697484"><img src="https://wakatime.com/badge/user/98f82f74-56ef-41ed-aad7-312ed2697484.svg" alt="Total time coded since Oct 6 2022" /></a>
 </p>
@@ -97,17 +94,9 @@ Agile methodologies<br />
 </table>
 
 
-<h3 align="center">📫 How to Reach Me</h3>
+<h3 align="center">💬 Let's Connect!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/matthew-reeder-willson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:matt@cyberdelianow.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<h3 align="center">💬 Let's Connect!</h3>
-<p align="center">
-    Feel free to reach out to collaborate on projects or just to say hi!
-    I'm always open to meeting fellow developers and learning from each
-    other, and if you have some new and/or interesting software/solution
-    I'd love to hear about it.
 </p>
 <img src="https://2no.co/1KqmH4.png" width="1" height="1" border="0" />
