@@ -50,17 +50,14 @@
 <tr>
 <td>
 
-Python<br />
-JavaScript<br />
-Java<br />
-C#<br />
+Python &nbsp;&nbsp;&nbsp;&nbsp;JavaScript<br />
+Java &nbsp;&nbsp;&nbsp;&nbsp;C#<br />
 
 </td>
 <td>
 
-HTML<br />
+HTML &nbsp;&nbsp;&nbsp;&nbsp;Vue3<br />
 CSS<br />
-Vue3<br />
 
 </td>
 <td>
@@ -77,7 +74,7 @@ NoSQL (MongoDB)<br />
 </td>
 <td>
 
-Docker/Docker Compose<br />
+Docker/Compose<br />
 Jenkins<br />
 Grafana<br />
 AWS<br />
