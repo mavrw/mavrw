@@ -8,6 +8,9 @@
     rewarding however, working on frontend projects also have their own
     unique and rewarding obstacles.
 </p>
+<p align="center">
+<a href="https://wakatime.com/@98f82f74-56ef-41ed-aad7-312ed2697484"><img src="https://wakatime.com/badge/user/98f82f74-56ef-41ed-aad7-312ed2697484.svg" alt="Total time coded since Oct 6 2022" /></a>
+</p>
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 
