@@ -50,14 +50,17 @@
 <tr>
 <td>
 
-Python&nbsp;&nbsp;JavaScript<br />
-Java&nbsp;&nbsp;&nbsp;&nbsp;C#<br />
+Python<br />
+JavaScript<br />
+Java<br />
+C#<br />
 
 </td>
 <td>
 
-HTML&nbsp;&nbsp;&nbsp;&nbsp;Vue3<br />
+HTML<br />
 CSS<br />
+Vue3<br />
 
 </td>
 <td>
@@ -74,13 +77,16 @@ NoSQL (MongoDB)<br />
 </td>
 <td>
 
-Docker/Compose&nbsp;&nbsp;AWS<br />
-Jenkins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grafana<br />
+Docker/Compose<br />
+Jenkins<br />
+Grafana<br />
+AWS<br />
 
 </td>
 <td>
 
-Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESTful APIs<br />
+Git<br />
+RESTful APIs<br />
 Agile methodologies<br />
 
 </td>
