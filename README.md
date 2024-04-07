@@ -12,82 +12,82 @@
 <h3 align="center">🔧 Technologies & Tools</h3>
 
 <table>
-    <tr>
-        <th>
+<tr>
+<th>
 
-            <h4>Languages</h4>
+<h4>Languages</h4>
 
-        </th>
-        <th>
+</th>
+<th>
 
-            <h4>Frontend</h4>
+<h4>Frontend</h4>
 
-        </th>
-        <th>
+</th>
+<th>
 
-            <h4>Backend</h4>
+<h4>Backend</h4>
 
-        </th>
-        <th>
+</th>
+<th>
 
-            <h4>Databases</h4>
+<h4>Databases</h4>
 
-        </th>
-        <th>
+</th>
+<th>
 
-            <h4>DevOps</h4>
+<h4>DevOps</h4>
 
-        </th>
-        <th>
+</th>
+<th>
 
-            <h4>Other</h4>
+<h4>Other</h4>
 
-        </th>
-    </tr>
-    <tr>
-        <td>
+</th>
+</tr>
+<tr>
+<td>
 
-            Python<br />
-            Javascript<br />
-            Java<br />
-            C#
+Python<br />
+Javascript<br />
+Java<br />
+C#
 
-        </td>
-        <td>
+</td>
+<td>
 
-            HTML<br />
-            CSS<br />
-            Vue3<br />
+HTML<br />
+CSS<br />
+Vue3<br />
 
-        </td>
-        <td>
+</td>
+<td>
 
-            FastAPI<br />
-            Flask<br />
+FastAPI<br />
+Flask<br />
 
-        </td>
-        <td>
+</td>
+<td>
 
-            SQL (MySQL, PostgreSQL)<br />
-            NoSQL (MongoDB)<br />
+SQL (MySQL, PostgreSQL)<br />
+NoSQL (MongoDB)<br />
 
-        </td>
-        <td>
+</td>
+<td>
 
-            Docker/Docker Compose<br />
-            Jenkins<br />
-            Grafana<br />
-            AWS<br />
+Docker/Docker Compose<br />
+Jenkins<br />
+Grafana<br />
+AWS<br />
 
-        </td>
-        <td>
+</td>
+<td>
 
-            Git<br />
-            RESTful APIs<br />
-            Agile methodologies<br />
+Git<br />
+RESTful APIs<br />
+Agile methodologies<br />
 
-        </td>
-    </tr>
+</td>
+</tr>
 </table>
 
 
