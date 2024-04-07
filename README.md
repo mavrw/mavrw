@@ -41,11 +41,6 @@
 <h4>DevOps</h4>
 
 </th>
-<th>
-
-<h4>Other</h4>
-
-</th>
 </tr>
 <tr>
 <td>
@@ -53,7 +48,6 @@
 Python<br />
 JavaScript<br />
 Java<br />
-C#<br />
 
 </td>
 <td>
@@ -81,13 +75,6 @@ Docker/Compose<br />
 Jenkins<br />
 Grafana<br />
 AWS<br />
-
-</td>
-<td>
-
-Git<br />
-RESTful APIs<br />
-Agile methodologies<br />
 
 </td>
 </tr>
