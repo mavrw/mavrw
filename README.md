@@ -72,7 +72,6 @@ NoSQL (MongoDB)<br />
 <td>
 
 Docker/Compose<br />
-Jenkins<br />
 Grafana<br />
 AWS<br />
 
