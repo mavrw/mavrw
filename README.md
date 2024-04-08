@@ -85,4 +85,3 @@ AWS<br />
 <a href="https://www.linkedin.com/in/matthew-reeder-willson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:matt@cyberdelianow.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-<img src="https://2no.co/1KqmH4.png" width="1" height="1" border="0" />
