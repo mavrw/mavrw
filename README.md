@@ -66,7 +66,7 @@ Flask<br />
 </td>
 <td>
 
-SQL (MySQL, PostgreSQL)<br />
+SQL (PostgreSQL, MySQL)<br />
 NoSQL (MongoDB)<br />
 
 </td>
