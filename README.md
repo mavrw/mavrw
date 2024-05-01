@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, I'm Matt! 👋</h3>
 <p align="center">
     You may also know me as Maverick.<br />
-    I'm a Jr Software Engineer who is passionate about creating clean, efficient, and maintainable code.<br />
+    I'm a Software Engineer who is passionate about creating clean, efficient, and maintainable code.<br />
     I enjoy tackling challenging problems and learning new technologies.<br />
 </p>
 <p align="center">
