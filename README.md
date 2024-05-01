@@ -5,7 +5,7 @@
     I enjoy tackling challenging problems and learning new technologies.<br />
 </p>
 <p align="center">
-    I spend a majority of my time crafting software for the web, and I particularly find writing backend solutions to be the most fun and rewarding however, working on frontend projects also have their own unique and rewarding obstacles.<br />
+    I spend the majority of my time crafting software for the web, and I particularly find writing backend solutions to be the most fun and rewarding however, working on frontend projects also have their own unique and rewarding obstacles.<br />
 </p>
 <p align="center">
 <a href="https://wakatime.com/@98f82f74-56ef-41ed-aad7-312ed2697484"><img src="https://wakatime.com/badge/user/98f82f74-56ef-41ed-aad7-312ed2697484.svg" alt="Total time coded since Oct 6 2022" /></a>
