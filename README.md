@@ -46,6 +46,7 @@
 <td>
 
 Python<br />
+Go<br />
 JavaScript<br />
 Java<br />
 
@@ -72,8 +73,9 @@ NoSQL (MongoDB)<br />
 <td>
 
 Docker/Compose<br />
-Grafana<br />
 AWS<br />
+Github Actions<br />
+Grafana<br />
 
 </td>
 </tr>
