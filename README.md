@@ -48,6 +48,7 @@
 Python<br />
 Go<br />
 JavaScript<br />
+TypeScript<br />
 
 </td>
 <td>
