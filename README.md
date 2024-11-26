@@ -48,7 +48,6 @@
 Python<br />
 Go<br />
 JavaScript<br />
-Java<br />
 
 </td>
 <td>
